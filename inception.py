@@ -12,8 +12,8 @@ added into training and testing set respectively
 vendor similarities
 
 To use the code, the data folder need to be changed accordingly
-
 '''
+
 
 from keras.optimizers import SGD
 from keras.layers import Input, Dense, Conv2D, MaxPooling2D, AveragePooling2D

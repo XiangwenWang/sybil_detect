@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+'''
+Codes used for loading and preprocessing the image data
+
+Batch feeding is used here
+'''
+
+
 from keras.preprocessing import image
 from keras.applications import imagenet_utils
 from keras.utils import np_utils

@@ -15,7 +15,6 @@ To use the code, the data folder need to be changed accordingly
 '''
 
 
-
 import os
 import numpy as np
 import tensorflow as tf

@@ -15,8 +15,6 @@ To use the code, the data folder need to be changed accordingly
 '''
 
 
-
-
 from keras.optimizers import SGD
 from keras.layers import Input, concatenate, ZeroPadding2D
 from keras.layers.core import Dense, Dropout, Activation
